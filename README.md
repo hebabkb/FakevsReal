@@ -70,5 +70,8 @@ Here the ROC-AUC of our models is shown. Again Stack 5 (model 1) and Stack 7 (mo
 
 <h1>Models Evaluation</h1>
 
+For evaluation, we chose precision-recall and AUC-ROC curves because they provide a comprehensive view of model performance. Precision-recall is critical in detecting fake images, as we prioritize minimizing false positives while identifying all altered images. AUC-ROC complements this by showing the model’s ability to distinguish between real and fake images across thresholds. These metrics highlight the effectiveness of our models, with the one-level stacking model showing superior generalization and accuracy.
+
+
 ![](https://github.com/hebabkb/FakevsReal/blob/main/Presentation_Images/Models%20Evaluation.png)
 
