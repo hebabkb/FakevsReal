@@ -57,7 +57,7 @@ Here the ROC-AUC of our models is shown. Again Stack 5 (model 1) and Stack 7 (mo
   
 <h3> Level 1 Meta-Learners</h3>
 
-- Outputsfrombaseclassifiersareaggregatedintothreeseparate meta learners: LightGBM, SVC, and XGBoost.
+- Outputs from base classifiers are aggregated into three separate meta learners: LightGBM, SVC, and XGBoost.
 - Each meta-learner creates robust predictions by combining the strengths of base models.
 
 <h3> Level 2: Final Stacking</h3>
