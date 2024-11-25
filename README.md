@@ -88,3 +88,5 @@ Here are two examples:
 
 <h1>References</h1>
 
+Idlbek, Robert, Mirko Pešić, and Krešimir Šolić. *Enhancing Digital Image Forensics with Error Level Analysis (ELA)." 2024 47th MIPRO ICT and Electronics Convention (MIPRO).* IEEE, 2024.[Link to paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10569232).
+
