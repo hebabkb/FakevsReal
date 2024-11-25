@@ -77,5 +77,5 @@ For evaluation, we chose precision-recall and AUC-ROC curves because they provid
 
 <h1>Model Interface</h1>
 
-We've written a ![web app](https://huggingface.co/spaces/HebaBouKaedBey/TamperedImageDetection) that showcases our models.
+We've written a [web app](https://huggingface.co/spaces/HebaBouKaedBey/TamperedImageDetection) that showcases our models.
 
