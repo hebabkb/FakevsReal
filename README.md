@@ -14,11 +14,23 @@ Fake image detection is increasingly crucial in combating misinformation and ens
 
 We leverage the CASIA2 Ground Truth Dataset, which contains 7,491 real images and 5,123 fake images altered through techniques such as image splicing, blurring, and color adjustments.
 
-<h1>Recall</h1>
+<h1>Recall Results</h1>
 
 In the evaluation of recall scores for detecting fake images, Model 1 (Stack 5, one-level stacking) and Model 2 (Stack 7, two-level stacking) both achieved an impressive recall of 83%:
 
 ![](https://github.com/hebabkb/FakevsReal/blob/main/Presentation_Images/Recall%20Scores.png)
+
+<h1>PR AUC Results</h1>
+
+The Precision-Recall AUC in our 11 models is shown in this graph. As it is obvious, Stack 5 (model 1) and Stack 7 (model 2) are giving high performance
+
+![](https://github.com/hebabkb/FakevsReal/blob/main/Presentation_Images/PR AUC%20Scores.png)
+
+<h1>ROC AUC Results</h1>
+
+Here the ROC-AUC of our models is shown. Again Stack 5 (model 1) and Stack 7 (model 2) are giving promising performance.
+
+![](https://github.com/hebabkb/FakevsReal/blob/main/Presentation_Images/ROC AUC%20Scores.png)
 
 
 
