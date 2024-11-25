@@ -68,5 +68,7 @@ Here the ROC-AUC of our models is shown. Again Stack 5 (model 1) and Stack 7 (mo
 ---
 ![](https://github.com/hebabkb/FakevsReal/blob/main/Presentation_Images/Two%20Level%20Stacking%20Model.png)
 
+<h1>Models Evaluation</h1>
 
+![](https://github.com/hebabkb/FakevsReal/blob/main/Presentation_Images/Models%20Evaluation.png)
 
