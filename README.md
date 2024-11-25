@@ -1,6 +1,6 @@
 [Erdős Institute Data Science Boot Camp](https://github.com/TheErdosInstitute/data-science-fall-2024), Fall 2024.
 
-- View our 5 mins presentation ....
+- View our 5 mins [presentation](https://www.erdosinstitute.org/project-database/fall-2024/fake-news-image-detection)
 
 <h1>Fake Image Detection</h1>
 
