@@ -79,3 +79,10 @@ For evaluation, we chose precision-recall and AUC-ROC curves because they provid
 
 We've written a [web app](https://huggingface.co/spaces/HebaBouKaedBey/TamperedImageDetection) that showcases our models.
 
+Here are two examples:
+
+![](https://github.com/hebabkb/FakevsReal/blob/main/Presentation_Images/AIvsReal-example1.png)
+
+![](https://github.com/hebabkb/FakevsReal/blob/main/Presentation_Images/AIvsReal-example2.png)
+
+
