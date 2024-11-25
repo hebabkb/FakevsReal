@@ -30,7 +30,7 @@ The Precision-Recall AUC in our 11 models is shown in this graph. As it is obvio
 
 Here the ROC-AUC of our models is shown. Again Stack 5 (model 1) and Stack 7 (model 2) are giving promising performance.
 
-![](https://github.com/hebabkb/FakevsReal/blob/main/Presentation_Images/ROC%20AUC%20Scores.png)
+![](https://github.com/hebabkb/FakevsReal/blob/main/Presentation_Images/ROC-AUC%20Scores.png)
 
 
 
