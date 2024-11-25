@@ -35,6 +35,36 @@ Here the ROC-AUC of our models is shown. Again Stack 5 (model 1) and Stack 7 (mo
 
 <h1>Models Details</h1>
 
+<h2>Model 1: Stacking Classifier with SVM Meta-Learner</h2>
+
+<h3>Base Classifiers</h3>
+- Combines Random Forest (RF), XGBoost (XGB), LightGBM (LGBM), and Support Vector Classifier (SVC).
+- Each base Classifier specializes in extracting unique features for robust predictions.
+
+<h3>Stacking</h3>
+- The outputs from the base classifiers are passed to a meta-learner for final decision-making.
+- Meta-Learner:An SVM with probability-based soft voting ensures accurate class separation.
+- Cross-validation ensures generalization and reduces overfitting.
+
+![](https://github.com/hebabkb/FakevsReal/blob/main/Presentation_Images/One%20Level%20Stacking%20Model.png)
+
+<h2>Model 2: Two Level Stacking Classifier</h2>
+
+<h3>Level 1: Base Models</h3>
+
+- Combines four base classifiers: Random Forest (RF), XGBoost (XGB), LightGBM (LGBM), and Support Vector Classifier (SVC).
+  
+<h3> Level 1 Meta-Learners</h3>
+
+- Outputsfrombaseclassifiersareaggregatedintothreeseparate meta learners: LightGBM, SVC, and XGBoost.
+- Each meta-learner creates robust predictions by combining the strengths of base models.
+
+<h3> Level 2: Final Stacking</h3>
+
+- The outputs of the three level1 meta-learners are passed into a final meta-learner SVC for ultimate classification
+- Ensures a layered approach for improved accuracy and generalization.
+
+![](https://github.com/hebabkb/FakevsReal/blob/main/Presentation_Images/Two%20Level%20Stacking%20Model.png)
 
 
 
