@@ -14,4 +14,9 @@ Fake image detection is increasingly crucial in combating misinformation and ens
 
 We leverage the CASIA2 Ground Truth Dataset, which contains 7,491 real images and 5,123 fake images altered through techniques such as image splicing, blurring, and color adjustments.
 
+<h1>Recall</h1>
+
+In the evaluation of recall scores for detecting fake images, Model 1 (Stack 5, one-level stacking) and Model 2 (Stack 7, two-level stacking) both achieved an impressive recall of 83%. ![image](https://github.com/user-attachments/assets/4a3e1ab5-074a-47a7-a85b-dbea796e4373)
+
+
 
