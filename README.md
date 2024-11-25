@@ -88,5 +88,9 @@ Here are two examples:
 
 <h1>References</h1>
 
-Idlbek Robert, Mirko Pešić, and Krešimir Šolić. *Enhancing Digital Image Forensics with Error Level Analysis (ELA)." 2024 47th MIPRO ICT and Electronics Convention (MIPRO).* IEEE, 2024.[Link to paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10569232).
+- Idlbek Robert, Mirko Pešić, and Krešimir Šolić. *Enhancing Digital Image Forensics with Error Level Analysis (ELA)." 2024 47th MIPRO ICT and Electronics Convention (MIPRO).* IEEE, 2024.[Link to paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10569232).
+  
+- Wolpert, David H. *Stacked generalization.* Neural networks 5.2 (1992): 241-259.[Link to paper](http://www.machine-learning.martinsewell.com/ensembles/stacking/Wolpert1992.pdf)
+
+- Friedman, Jerome H. "Greedy function approximation: a gradient boosting machine." Annals of statistics (2001): 1189-1232.[Link to paper](https://www.jstor.org/stable/pdf/2699986.pdf)
 
