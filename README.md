@@ -10,4 +10,8 @@
 
 <h1>Project Description</h1>
 
+Fake image detection is increasingly crucial in combating misinformation and ensuring online authenticity. The technology addresses challenges in journalism, social media, and digital security, helping to identify manipulated or AI-generated images. Our project explores traditional machine learning methods to detect fake images effectively.
+
+We leverage the CASIA2 Ground Truth Dataset, which contains 7,491 real images and 5,123 fake images altered through techniques such as image splicing, blurring, and color adjustments.
+
 
