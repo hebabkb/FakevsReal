@@ -24,13 +24,13 @@ In the evaluation of recall scores for detecting fake images, Model 1 (Stack 5, 
 
 The Precision-Recall AUC in our 11 models is shown in this graph. As it is obvious, Stack 5 (model 1) and Stack 7 (model 2) are giving high performance
 
-![](https://github.com/hebabkb/FakevsReal/blob/main/Presentation_Images/PR AUC%20Scores.png)
+![](https://github.com/hebabkb/FakevsReal/blob/main/Presentation_Images/PR%20AUC%20Scores.png)
 
 <h1>ROC AUC Results</h1>
 
 Here the ROC-AUC of our models is shown. Again Stack 5 (model 1) and Stack 7 (model 2) are giving promising performance.
 
-![](https://github.com/hebabkb/FakevsReal/blob/main/Presentation_Images/ROC AUC%20Scores.png)
+![](https://github.com/hebabkb/FakevsReal/blob/main/Presentation_Images/ROC%20AUC%20Scores.png)
 
 
 
