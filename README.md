@@ -46,6 +46,7 @@ Here the ROC-AUC of our models is shown. Again Stack 5 (model 1) and Stack 7 (mo
 - Meta-Learner:An SVM with probability-based soft voting ensures accurate class separation.
 - Cross-validation ensures generalization and reduces overfitting.
 
+
 ![](https://github.com/hebabkb/FakevsReal/blob/main/Presentation_Images/One%20Level%20Stacking%20Model.png)
 
 <h2>Model 2: Two Level Stacking Classifier</h2>
@@ -63,6 +64,7 @@ Here the ROC-AUC of our models is shown. Again Stack 5 (model 1) and Stack 7 (mo
 
 - The outputs of the three level1 meta-learners are passed into a final meta-learner SVC for ultimate classification
 - Ensures a layered approach for improved accuracy and generalization.
+  
 
 ![](https://github.com/hebabkb/FakevsReal/blob/main/Presentation_Images/Two%20Level%20Stacking%20Model.png)
 
