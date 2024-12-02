@@ -39,11 +39,14 @@ Here the ROC-AUC of our models is shown. Again Stack 5 (model 1) and Stack 7 (mo
 
 <h3>Base Classifiers</h3>
 - Combines Random Forest (RF), XGBoost (XGB), LightGBM (LGBM), and Support Vector Classifier (SVC).
+
 - Each base Classifier specializes in extracting unique features for robust predictions.
 
 <h3>Stacking</h3>
 - The outputs from the base classifiers are passed to a meta-learner for final decision-making.
+
 - Meta-Learner:An SVM with probability-based soft voting ensures accurate class separation.
+  
 - Cross-validation ensures generalization and reduces overfitting.
 
 ---
@@ -58,11 +61,13 @@ Here the ROC-AUC of our models is shown. Again Stack 5 (model 1) and Stack 7 (mo
 <h3> Level 1 Meta-Learners</h3>
 
 - Outputs from base classifiers are aggregated into three separate meta learners: LightGBM, SVC, and XGBoost.
+
 - Each meta-learner creates robust predictions by combining the strengths of base models.
 
 <h3> Level 2: Final Stacking</h3>
 
 - The outputs of the three level1 meta-learners are passed into a final meta-learner SVC for ultimate classification
+
 - Ensures a layered approach for improved accuracy and generalization.
   
 ---
