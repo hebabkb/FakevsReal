@@ -10,7 +10,7 @@
 
 <h1>Project Description</h1>
 
-Note: The below Project Description and the programming code were modified after the presentation submission to Erdos. 
+Note: The below Project Description and the programming code were modified after the presentation submission to Erdős. 
 
 Fake image detection is increasingly crucial in combating misinformation and ensuring online authenticity. The technology addresses challenges in journalism, social media, and digital security, helping to identify manipulated or AI-generated images. Our project explores traditional machine learning methods to detect fake images effectively.
 
