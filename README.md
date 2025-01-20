@@ -18,7 +18,7 @@ We leverage the CASIA2 Ground Truth Dataset, which contains 7,491 real images an
 
 <h1>Recall Results</h1>
 
-In the evaluation of recall scores for detecting fake images, Model 1 (Stack 5, one-level stacking) and Model 2 (Stack 7, two-level stacking) both achieved an impressive recall of 83%:
+In the evaluation of recall scores for detecting fake images, Model 1 (Stack 5, one-level stacking) and Model 2 (Stack 7, two-level stacking) both achieved an impressive recall:
 
 ![](https://github.com/hebabkb/FakevsReal/blob/main/Presentation_Images/Recall%20Scores.png)
 
